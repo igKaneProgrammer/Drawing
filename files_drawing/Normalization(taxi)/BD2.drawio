@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T17:55:22.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.92 Safari/537.36" etag="hofX-Ei-3uyJBxgPR7Kk" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T17:55:41.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.92 Safari/537.36" etag="or2-BNAqZmzCLgXnj81U" version="17.4.2" type="github">
   <diagram id="wJs7uezQoKORum_-_IQa" name="Page-1">
     <mxGraphModel dx="1422" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="5lQl1Uw1KeCLuTtpGHMp-1" value="Автомобиль" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5lQl1Uw1KeCLuTtpGHMp-2" value="id_автомобиля" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
+        <mxCell id="5lQl1Uw1KeCLuTtpGHMp-2" value="ID_автомобиля" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5lQl1Uw1KeCLuTtpGHMp-4" value="Гос. номер" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
@@ -192,7 +192,7 @@
         <mxCell id="5lQl1Uw1KeCLuTtpGHMp-56" value="Оператор" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1197" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5lQl1Uw1KeCLuTtpGHMp-57" value="id_оператора" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
+        <mxCell id="5lQl1Uw1KeCLuTtpGHMp-57" value="ID_оператора" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1100" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5lQl1Uw1KeCLuTtpGHMp-58" value="Имя" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
